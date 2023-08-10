@@ -28,9 +28,9 @@ A brief description of what this project does and who it's for
 | :-------- | :------- | :------------------------- |
 | `Google api` | `string` | **Required**. Your google maps api_key |
 
+```
 
-
-## FAQ
+# Faq
 
 #### Is this app use Statemanagement?
 
