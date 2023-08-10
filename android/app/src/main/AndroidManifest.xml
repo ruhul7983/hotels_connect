@@ -14,7 +14,7 @@
         android:icon="@mipmap/ic_launcher">
         <!-- added api key -->
         <meta-data android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyDVZvvtriqZ94vzwr6M9syYXVDPLJBysCQ"/>
+            android:value="yourapikey"/>
 
         <activity
             android:name=".MainActivity"
@@ -33,7 +33,7 @@
               android:resource="@style/NormalTheme"
               />
             <meta-data android:name="com.google.android.geo.API_KEY"
-                android:value="AIzaSyBsZ6usRA2mZ20X80e8B6eZ3xMiGfbGM-I"/>
+                android:value="yourapikey"/>
 
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
