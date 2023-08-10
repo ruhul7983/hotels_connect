@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "305163291166",
+    "project_id": "hotels-connect-e8464",
+    "storage_bucket": "hotels-connect-e8464.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305163291166:android:586e690d12b2b8eecebc0f",
+        "android_client_info": {
+          "package_name": "com.example.hotels_connect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305163291166-a34jq8gcj6kn72lfblombdsaontbrls8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVZvvtriqZ94vzwr6M9syYXVDPLJBysCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "305163291166-a34jq8gcj6kn72lfblombdsaontbrls8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
