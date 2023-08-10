@@ -1,16 +1,45 @@
 # hotels_connect
 
-A new Flutter project.
 
-## Getting Started
+# Project Title
 
-This project is a starting point for a Flutter application.
+A brief description of what this project does and who it's for
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![App Screenshot](https://github.com/ruhul7983/hotels_connect/blob/master/assets/Colorful%20Modern%20Journal%20Apps%20Facebook%20Post%20(2).png?raw=true)
+
+
+## API Reference
+
+#### Need your 2 API key
+
+
+```
+
+| Parameter | Type     | Description                |
+| :-------- | :------- | :------------------------- |
+| `Firbase` | `string` | **Required**. Your Firbase api_key |
+
+
+
+| Parameter | Type     | Description                |
+| :-------- | :------- | :------------------------- |
+| `Google api` | `string` | **Required**. Your google maps api_key |
+
+```
+
+# Faq
+
+## Is this app use Statemanagement?
+
+yes. In this app we use GetX Statemanagement.
+
+## Which server backend is use?
+
+Firebase backend
+
+
+
+
