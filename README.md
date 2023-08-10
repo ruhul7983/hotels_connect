@@ -32,11 +32,11 @@ A brief description of what this project does and who it's for
 
 # Faq
 
-#### Is this app use Statemanagement?
+## Is this app use Statemanagement?
 
 yes. In this app we use GetX Statemanagement.
 
-#### Which server backend is use?
+## Which server backend is use?
 
 Firebase backend
 
